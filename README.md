@@ -7,7 +7,7 @@ A Python tool that uses Amazon Rekognition to detect object labels and celebrity
 
 I made this project to play around with AWS Rekognition and see what it could do. It was really fun trying to guess which celebrity shows up in a photo - or what random objects it can detect! This helped me learn how to set up IAM permissions, connect to S3, and use Python to make it all work behind the scenes.
 
-[👉 Let's jumpt to see Result 📸](#result)
+[👉 Let's jumpt to see RESULT 📸](#result)
 
 ---
 
