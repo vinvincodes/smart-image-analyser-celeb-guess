@@ -1,6 +1,6 @@
+<a name="top"></a>
 # Smart Image Analyser - guess who celebrities 😎 & what objects are those?
 
-<a name="top"></a>
 A Python tool that uses Amazon Rekognition to detect object labels and celebrity faces in images uploaded to S3.
 
 **Why I Built This**
