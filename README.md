@@ -1,10 +1,13 @@
 # Smart Image Analyser - guess who celebrities 😎 & what objects are those?
 
+<a name="top"></a>
 A Python tool that uses Amazon Rekognition to detect object labels and celebrity faces in images uploaded to S3.
 
 **Why I Built This**
 
 I made this project to play around with AWS Rekognition and see what it could do. It was really fun trying to guess which celebrity shows up in a photo - or what random objects it can detect! This helped me learn how to set up IAM permissions, connect to S3, and use Python to make it all work behind the scenes.
+
+[👉 Let's jumpt to see Result 📸](#result)
 
 ---
 
@@ -132,6 +135,8 @@ python main.py
 ```
 
 ## Result
+
+[🔼 Back to Top](#top)
 
 Here’s what the output looks like when you run the script:
 
